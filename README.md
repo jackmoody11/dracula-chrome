@@ -1,4 +1,7 @@
-## Color Palette
+## Preview
+![Dracula Chrome Theme Preview](/images/preview.png)
+
+## Dracula Color Palette
 
 Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/assets/img/color-boxes/eyedropper.png)
 ---          | ---       | ---           | ---             | ---
@@ -14,3 +17,4 @@ Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](http
 Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://draculatheme.com/assets/img/color-boxes/purple.png)
 Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://draculatheme.com/assets/img/color-boxes/red.png)
 Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/assets/img/color-boxes/yellow.png)
+
