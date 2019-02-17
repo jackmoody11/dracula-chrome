@@ -1,0 +1,46 @@
+{
+    "description": "Dracula Chrome Theme",
+    "manifest_version": 2,
+    "name": "Dracula Chrome Theme",
+    "theme": {
+       "colors": {
+          "bookmark_text": [ 248, 248, 242 ],
+          "button_background": [ 40, 42, 54 ], 
+          "control_background": [ 248, 248, 242 ],
+          "frame": [ 40, 42, 54 ],
+          "frame_inactive": [ 40, 42, 54, 0.6 ],
+          "frame_incognito": [ 40, 42, 54, 1 ],
+          "frame_incognito_inactive": [ 40, 42, 54, 0.6 ],
+          "ntp_background": [ 40, 42, 54 ],
+          "ntp_header": [ 255, 85, 85 ],
+          "ntp_link": [ 139, 233, 253 ],
+          "ntp_link_underline": [ 139, 233, 253 ],
+          "ntp_section": [ 40, 42, 54 ],
+          "ntp_section_link": [ 139, 233, 253 ],
+          "ntp_section_link_underline": [ 139, 233, 253 ],
+          "ntp_section_text": [ 248, 248, 242 ],
+          "ntp_text": [ 248, 248, 242 ],
+          "tab_background_text": [ 248, 248, 242 ],
+          "tab_text": [ 248, 248, 242 ],
+          "toolbar": [ 68, 71, 90 ]
+       },
+       "images": {
+        "theme_tab_background": "images/theme_tab_background.png"
+       },
+       "properties": {
+          "ntp_background_alignment": "",
+          "ntp_background_repeat": "",
+          "ntp_logo_alternate": ""
+       },
+       "tints": {
+          "background_tab": [ 255, 0, 0 ],
+          "buttons": [ 1, 1, 1 ],
+          "frame": [ 255, 255, 0 ],
+          "frame_inactive": [ 255, 0, 0 ],
+          "frame_incognito": [ 255, 0, 0 ],
+          "frame_incognito_inactive": [ 255, 0, 0 ]
+       }
+    },
+    "version": "1.0"
+ }
+ 
